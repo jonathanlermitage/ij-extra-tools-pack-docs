@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                 name="Extra Tools Pack - A collection of useful plugins for JetBrains IDEs"
+                 start-page="Extra-Tools-Pack.md">
+
+    <toc-element topic="Extra-Tools-Pack.md"/>
+    <toc-element topic="Extra-Icons.md">
+        <toc-element topic="Getting-Started.md"/>
+        <toc-element topic="Main-Configuration.md"/>
+        <toc-element topic="Plugin-Icons.md"/>
+        <toc-element topic="User-Icons.md"/>
+        <toc-element topic="User-Icon-Packs.md"/>
+        <toc-element topic="Project-Level-Settings.md"/>
+        <toc-element topic="Advanced-Configuration.md"/>
+    </toc-element>
+    <toc-element topic="Extra-TCI.md"/>
+    <toc-element topic="Extra-IDE-Tweaks.md"/>
+    <toc-element topic="Supported-IDEs.md"/>
+    <toc-element topic="Purchase-a-License.md"/>
+    <toc-element topic="Perpetual-Fallback-License.md"/>
+    <toc-element topic="Release-Cadence.md"/>
+    <toc-element topic="Support.md"/>
+    <toc-element topic="Privacy-Policy.md"/>
+</instance-profile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <download-title>Get Awesome Apps</download-title>
+        <download-page>https://plugins.jetbrains.com/author/ed9cc7eb-74f5-46c1-b0df-67162fe1a1c5</download-page>
+        <showDownloadButton>true</showDownloadButton>
+
+        <header-logo>logo.svg</header-logo>
+        <custom-favicons>logo.svg</custom-favicons>
+
+        <primary-color>frozen</primary-color>
+    </variables>
+    
+    <build-profile instance="m">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+    <footer>
+        <copyright>2018-2024 Jonathan Lermitage. All rights reserved.</copyright>
+        <social type="linkedin" href="https://www.linkedin.com/in/jonathan-lermitage/"/>
+        <link href="https://bsky.app/profile/jonathanlermitage.bsky.social">Bluesky</link>
+        <link href="https://www.extratoolspack.com">www.extratoolspack.com</link>
+    </footer>
+
+</buildprofiles>
