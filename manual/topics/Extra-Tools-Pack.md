@@ -1,4 +1,4 @@
-<!--show-structure depth="3"/-->
+<show-structure depth="3"/>
 
 # Extra Tools Pack
 

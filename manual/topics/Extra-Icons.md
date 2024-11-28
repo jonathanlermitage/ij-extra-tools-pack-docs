@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Extra Icons
 
 The idea of Extra Icons is to make your IDE more pleasant to use by providing several beautiful icons for popular files and folders.

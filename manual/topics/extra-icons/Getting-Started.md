@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Getting Started
 
 By default, Extra Icons override the file and folder icons in most tool windows like:

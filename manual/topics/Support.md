@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Support
 
 Visit these GitHub projects to report all issues and bugs you discover, and submit feature requests:

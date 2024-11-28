@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Supported IDEs
 
 Most JetBrains IDEs are supported:

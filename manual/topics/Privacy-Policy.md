@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Privacy Policy
 
 Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks plugins do NOT collect or store any personal data. All settings are stored locally, at IDE level and optionally at project level. Nothing is ever sent over the network.

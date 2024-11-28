@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Main Configuration
 
 Access the Extra icons' settings panel by going to <ui-path>File | Settings | Appearance & Behavior | Extra Icons</ui-path>: 

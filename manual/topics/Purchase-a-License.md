@@ -1,3 +1,5 @@
+<show-structure depth="3"/>
+
 # Purchase a License
 
 ## Extra Tools Pack
