@@ -1,3 +1,5 @@
+<show-structure for="chapter,procedure,tab,def"/>
+
 # Supported IDEs
 
 Most JetBrains IDEs are supported:
@@ -18,7 +20,7 @@ Most JetBrains IDEs are supported:
 
 {columns="2"}
 
-These IDEs are currently supported for versions from 2024.1 to their latest stable version.  
+These IDEs are currently supported for versions from 2024.1 to their latest stable version.
 Basically, I'm trying to support at least the two last major IDE versions (reminder: IDE versions look like `Year.Major.Minor`).
 
 Android Studio is also supported from Koala | 2024.1.1.

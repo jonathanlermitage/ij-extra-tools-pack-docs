@@ -3,25 +3,51 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="m"
-                 name="Extra Tools Pack - A collection of useful plugins for JetBrains IDEs"
+                 name="Extra Tools Pack"
                  start-page="Extra-Tools-Pack.md">
 
     <toc-element topic="Extra-Tools-Pack.md"/>
     <toc-element topic="Extra-Icons.md">
-        <toc-element topic="Getting-Started.md"/>
-        <toc-element topic="Main-Configuration.md"/>
-        <toc-element topic="Plugin-Icons.md"/>
-        <toc-element topic="User-Icons.md"/>
-        <toc-element topic="User-Icon-Packs.md"/>
-        <toc-element topic="Project-Level-Settings.md"/>
-        <toc-element topic="Advanced-Configuration.md"/>
+        <toc-element topic="Extra-Icons-Getting-Started.md"/>
+        <toc-element topic="Extra-Icons-Main-Configuration.md"/>
+        <toc-element topic="Extra-Icons-Plugin-Icons.md"/>
+        <toc-element topic="Extra-Icons-User-Icons.md"/>
+        <toc-element topic="Extra-Icons-User-Icon-Packs.md"/>
+        <toc-element topic="Extra-Icons-Git-sub-modules.md"/>
+        <toc-element topic="Extra-Icons-Project-Level-Settings.md"/>
+        <toc-element topic="Extra-Icons-Advanced-Configuration.md"/>
+        <toc-element topic="Extra-Icons-Ask-Me-New-Icons.md"/>
     </toc-element>
-    <toc-element topic="Extra-TCI.md"/>
-    <toc-element topic="Extra-IDE-Tweaks.md"/>
+    <toc-element topic="Extra-TCI.md">
+        <toc-element topic="Extra-TCI-Getting-Started.md"/>
+        <toc-element topic="Extra-TCI-Configuration.md"/>
+        <toc-element topic="Extra-TCI-Ask-Me-New-Icons.md"/>
+    </toc-element>
+    <toc-element topic="Extra-IDE-Tweaks.md">
+        <toc-element topic="Extra-IDE-Tweaks-Getting-Started.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Configuration.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Open-Editors.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Commit-Alert.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Activate-All-Tool-Windows.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Better-Folder-Icons.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Better-Tab-Names.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Add-Programs-To-Open-In.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Tool-Windows-Label-Override.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Confirm-Opening-of-Sensitive-Files.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Always-Excluded-Folders-From-Indexing.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Trusted-Locations.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Favorite-Projects.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-IDE-Caches-Management.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Workaround-for-Wrong-Version-Control-Label.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-GC-Scheduling.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Misc-Features.md"/>
+        <toc-element topic="Extra-IDE-Tweaks-Ask-Me-New-Features.md"/>
+    </toc-element>
     <toc-element topic="Supported-IDEs.md"/>
     <toc-element topic="Purchase-a-License.md"/>
     <toc-element topic="Perpetual-Fallback-License.md"/>
     <toc-element topic="Release-Cadence.md"/>
     <toc-element topic="Support.md"/>
     <toc-element topic="Privacy-Policy.md"/>
+    <toc-element topic="EULA.md"/>
 </instance-profile>

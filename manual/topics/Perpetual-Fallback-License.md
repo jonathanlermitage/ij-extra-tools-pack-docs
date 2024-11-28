@@ -1,3 +1,5 @@
+<show-structure for="chapter,procedure,tab,def"/>
+
 # Perpetual Fallback License
 
 For monthly subscriptions, 12 months of uninterrupted subscription payments qualify you for receiving a perpetual fallback license.

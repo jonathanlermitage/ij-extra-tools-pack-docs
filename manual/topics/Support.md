@@ -1,3 +1,5 @@
+<show-structure for="chapter,procedure,tab,def"/>
+
 # Support
 
 Visit these GitHub projects to report all issues and bugs you discover, and submit feature requests:
