@@ -1,7 +1,8 @@
+<show-structure for="chapter,procedure,tab,def"/>
+
 # Supported IDEs
 
 Most JetBrains IDEs are supported:
-- Aqua
 - CLion
 - DataGrip
 - DataSpell
@@ -14,19 +15,19 @@ Most JetBrains IDEs are supported:
 - RubyMine
 - RustRover
 - WebStorm
-- Writerside
 
-{columns="2"}
+{columns="1"}
 
-These IDEs are currently supported for versions from 2024.1 to their latest stable version.  
-Basically, I'm trying to support at least the two last major IDE versions (reminder: IDE versions look like `Year.Major.Minor`).
+These IDEs are currently supported for versions from 2025.1.4.1 to their latest stable version.  
 
-Android Studio is also supported from Koala | 2024.1.1.
+Android Studio is also supported from version Narwhal 4 | Feature Drop 2025.1.4.
 
-> Older versions of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks are compatible with IDEs from 2020.3.
+For Huawei DevEco Studio support, [click here](DevEco-Studio.md).
 
-> EAP IDE snapshots are also supported. Please understand that EAP IDEs are subject to breaking changes by nature, which may break plugins as well. I usually do my best to support the latest EAP snapshots with minimal delay. In practice, it should work most of the time.
+> Older versions of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks are compatible with IDEs from 2020.3, but they're no longer supported.
+
+> <tooltip term="EAP">EAP</tooltip> IDE snapshots are also supported. Please understand that EAP IDEs are subject to breaking changes by nature, which may break plugins as well. I usually do my best to support the latest EAP snapshots with minimal delay. In practice, it should work most of the time.
 
 > Please note that JetBrains Gateway and other remote IDEs based on the JetBrains Client (like Gitpod) are currently NOT supported.
-> I have plans to support remote IDEs, but JetBrains has to resolve some major issues first. Unfortunately, there is no estimated time of arrival from JetBrains.
+> I have plans to support remote IDEs, but JetBrains has to resolve some major issues first. Unfortunately, there is no <tooltip term="ETA">ETA</tooltip> from JetBrains.
 {style="warning"}

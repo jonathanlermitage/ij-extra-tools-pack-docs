@@ -11,9 +11,10 @@
         <header-logo>logo.svg</header-logo>
         <custom-favicons>logo.svg</custom-favicons>
 
-        <primary-color>frozen</primary-color>
+        <resizable-sidebar>true</resizable-sidebar>
+        <automaticLinkSummaries>false</automaticLinkSummaries>
     </variables>
-    
+
     <build-profile instance="m">
         <variables>
             <noindex-content>false</noindex-content>
@@ -21,10 +22,16 @@
     </build-profile>
 
     <footer>
-        <copyright>2018-2024 Jonathan Lermitage. All rights reserved.</copyright>
+        <copyright>2018-2026 Jonathan Lermitage. All rights reserved.</copyright>
+
+        <social type="github" href="https://github.com/jonathanlermitage"/>
+        <social type="bluesky" href="https://bsky.app/profile/jonathanlermitage.bsky.social"/>
         <social type="linkedin" href="https://www.linkedin.com/in/jonathan-lermitage/"/>
-        <link href="https://bsky.app/profile/jonathanlermitage.bsky.social">Bluesky</link>
-        <link href="https://www.extratoolspack.com">www.extratoolspack.com</link>
+
+        <link href="mailto:jonathan.lermitage@gmail.com">Contact me</link>
+        <link href="https://www.extratoolspack.com">ExtraToolsPack.com</link>
+        <link href="https://thejonathanlermitage.wordpress.com">Blog</link>
+        <link href="https://vshymanskyy.github.io/StandWithUkraine/">Help Ukraine</link>
     </footer>
 
 </buildprofiles>
