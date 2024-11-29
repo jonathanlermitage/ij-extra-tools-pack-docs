@@ -2,6 +2,9 @@
 
 # Extra Tools Pack
 
+> WORK IN PROGRESS
+{style="warning"}
+
 Extra Tools Pack is a plugin for JetBrains IDEs that offers the exact same features as these three plugins: Extra Icons, Extra ToolWindow Colorful Icons, and Extra IDE Tweaks.
 
 See their respective documentation:

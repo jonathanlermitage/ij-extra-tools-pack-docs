@@ -2,6 +2,9 @@
 
 # User Icons
 
+> WORK IN PROGRESS
+{style="warning"}
+
 ![](../../images/extra-icons/user-icons-add-models.png){ width="640" }{ thumbnail="true" }
 
 ## Provide Your Own Icons

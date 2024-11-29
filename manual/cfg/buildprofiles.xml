@@ -12,6 +12,9 @@
         <custom-favicons>logo.svg</custom-favicons>
 
         <primary-color>frozen</primary-color>
+        <color-preset>contrast</color-preset>
+
+        <resizable-sidebar>true</resizable-sidebar>
     </variables>
     
     <build-profile instance="m">
@@ -23,8 +26,9 @@
     <footer>
         <copyright>2018-2024 Jonathan Lermitage. All rights reserved.</copyright>
         <social type="linkedin" href="https://www.linkedin.com/in/jonathan-lermitage/"/>
-        <link href="https://bsky.app/profile/jonathanlermitage.bsky.social">Bluesky</link>
+        <social type="blog" href="https://bsky.app/profile/jonathanlermitage.bsky.social"/>
         <link href="https://www.extratoolspack.com">www.extratoolspack.com</link>
+        <link href="mailto:jonathan.lermitage@gmail.com">Contact me</link>
     </footer>
 
 </buildprofiles>

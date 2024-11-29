@@ -9,5 +9,5 @@ An Icon Pack may also have a name.
 
 - **Import from Web**: this button redirects to a [list of downloadable Icon Packs](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/blob/master/themes/THEMES.md#downloadable-icon-packs)
 - **Import from File**: install an Icon Pack
-- **Export**: save the user icons to an Icon Pack file
+- **Export**: save the User Icons to an Icon Pack file
 - **Uninstall**: remove the User Icons associated with the given Icon Pack name
