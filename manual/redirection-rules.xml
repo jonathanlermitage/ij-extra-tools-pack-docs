@@ -6,4 +6,10 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="3130d96d">
+        <description>Created after removal of "Product Activation ⚠" from Extra Tools Pack - A collection of useful
+            plugins for JetBrains IDEs
+        </description>
+        <accepts>Extra-TCI-Product-Activation.html</accepts>
+    </rule>
 </rules>

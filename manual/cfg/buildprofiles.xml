@@ -15,6 +15,7 @@
         <color-preset>contrast</color-preset>
 
         <resizable-sidebar>true</resizable-sidebar>
+        <automaticLinkSummaries>false</automaticLinkSummaries>
     </variables>
     
     <build-profile instance="m">
@@ -25,10 +26,13 @@
 
     <footer>
         <copyright>2018-2024 Jonathan Lermitage. All rights reserved.</copyright>
+
         <social type="linkedin" href="https://www.linkedin.com/in/jonathan-lermitage/"/>
-        <social type="blog" href="https://bsky.app/profile/jonathanlermitage.bsky.social"/>
-        <link href="https://www.extratoolspack.com">www.extratoolspack.com</link>
+
         <link href="mailto:jonathan.lermitage@gmail.com">Contact me</link>
+        <link href="https://www.extratoolspack.com">ExtraToolsPack.com</link>
+        <link href="https://bsky.app/profile/jonathanlermitage.bsky.social">Bluesky</link>
+        <link href="https://vshymanskyy.github.io/StandWithUkraine/">Help Ukraine</link>
     </footer>
 
 </buildprofiles>
