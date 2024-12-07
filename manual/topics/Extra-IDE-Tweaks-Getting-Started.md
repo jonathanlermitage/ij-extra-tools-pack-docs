@@ -1,6 +1,6 @@
 <show-structure depth="3"/>
 
-# Getting-Started
+# Getting Started
 
 > WORK IN PROGRESS
 {style="warning"}
