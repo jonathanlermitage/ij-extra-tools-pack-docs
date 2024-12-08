@@ -11,13 +11,10 @@
         <header-logo>logo.svg</header-logo>
         <custom-favicons>logo.svg</custom-favicons>
 
-        <primary-color>frozen</primary-color>
-        <color-preset>contrast</color-preset>
-
         <resizable-sidebar>true</resizable-sidebar>
         <automaticLinkSummaries>false</automaticLinkSummaries>
     </variables>
-    
+
     <build-profile instance="m">
         <variables>
             <noindex-content>false</noindex-content>

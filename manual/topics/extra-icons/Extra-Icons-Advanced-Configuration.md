@@ -1,11 +1,11 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Advanced Configuration
 
 ![](../../images/extra-icons/advanced-configuration.png){ width="920" }
 
 1. Change the custom icons (Plugin Icons and User Icons) scale factor if they're too small or too big. Per example, if icons are too small, and if the operating system's scale factor is set to 125%, you may want to set the `Additional UI Scale Factor` to 1.25 (the `Detect` button can try to detect the best value). In most situations, the IDE should detect the operating system's scale factor and adapt the size of icons, so you shouldn't have to touch this setting.
-2. Refresh all displayed custom icons. Use it if you still see original icons. This is an old feature that shouldn't be needed anymore.
+2. Refresh all displayed custom icons. Use it if you still see original icons. This is also useful for re-detecting specific files (per example, for Git submodules support) without reloading your project. {id = "button-reload-projects-icons"}
 3. Define a regular expression if you want to prevent Extra Icons from overriding the icons of some files or folders.
 4. Several custom icons exist for both the [Classic UI](https://plugins.jetbrains.com/plugin/24468-classic-ui) and the New UI. They're selected automatically by detecting the UI type. You can use this setting to force the selection of the Classic UI or the New UI variants of custom icons. This applies to the custom icons only, not to the original icons.
 5. Some hints and notifications are displayed at once. Use this button if you want to see them again.

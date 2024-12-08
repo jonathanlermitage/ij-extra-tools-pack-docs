@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="m"
-                 name="Extra Tools Pack - A collection of useful plugins for JetBrains IDEs"
+                 name="Extra Tools Pack"
                  start-page="Extra-Tools-Pack.md">
 
     <toc-element topic="Extra-Tools-Pack.md"/>
@@ -16,9 +16,12 @@
         <toc-element topic="Extra-Icons-Git-sub-modules.md"/>
         <toc-element topic="Extra-Icons-Project-Level-Settings.md"/>
         <toc-element topic="Extra-Icons-Advanced-Configuration.md"/>
+        <toc-element topic="Extra-Icons-Ask-Me-New-Icons.md"/>
     </toc-element>
     <toc-element topic="Extra-TCI.md">
         <toc-element topic="Extra-TCI-Getting-Started.md"/>
+        <toc-element topic="Extra-TCI-Configuration.md"/>
+        <toc-element topic="Extra-TCI-Ask-Me-New-Icons.md"/>
     </toc-element>
     <toc-element topic="Extra-IDE-Tweaks.md">
         <toc-element topic="Extra-IDE-Tweaks-Getting-Started.md"/>

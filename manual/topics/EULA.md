@@ -1,3 +1,5 @@
+<show-structure for="chapter,procedure,tab,def"/>
+
 # EULA
 
 End-user license agreement for:

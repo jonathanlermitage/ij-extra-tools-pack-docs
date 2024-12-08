@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Perpetual Fallback License
 
