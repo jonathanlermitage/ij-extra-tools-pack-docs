@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Getting Started
 
@@ -9,7 +9,7 @@ By default, Extra Icons override the file and folder icons in most tool windows 
 - Structure view
 - Bookmarks view
 
-It also overrides the file icons in the Editor tabs, in the Diff Viewer, etc.  
+It also overrides the file icons in the Editor tabs, in the Diff Viewer, etc.
 
 Here is an example:
 

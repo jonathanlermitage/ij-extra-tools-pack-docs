@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Purchase a License
 
@@ -8,7 +8,7 @@ You can acquire a license for Extra Tools Pack on the [JetBrains marketplace](ht
 
 If you go to `Help > Register`, you will see an entry for Extra Tools Pack.
 
-> If you already own a license (active or expired) for Extra Icons, Extra ToolWindow Colorful Icons or Extra IDE Tweaks, and if you plan to acquire a license for Extra Tools Pack, please note that you can ask for a **10-month free license**.  
+> If you already own a license (active or expired) for Extra Icons, Extra ToolWindow Colorful Icons or Extra IDE Tweaks, and if you plan to acquire a license for Extra Tools Pack, please note that you can ask for a **10-month free license**.
 > Follow [these instructions](https://www.extratoolspack.com/pricing.html#migrate-to-extra-tools-pack). No credit card required.
 {title="Special Offer" style="note"}
 

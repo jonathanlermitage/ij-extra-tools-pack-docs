@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Extra Tools Pack
 
@@ -15,8 +15,8 @@ See their respective documentation:
 
 ## How It Works
 
-Extra Tools Pack repacks these three plugins into a new single package.  
-That means you will continue to access to their features like: 
+Extra Tools Pack repacks these three plugins into a new single package.
+That means you will continue to access to their features like:
 * <ui-path>File | Settings | Appearance & Behavior | Extra Icons</ui-path> settings panel
 * <ui-path>File | Settings | Appearance & Behavior | Extra ToolWindow Colorful Icons</ui-path> settings panel
 * <ui-path>File | Settings | Tools | Extra IDE Tweaks</ui-path> settings panel

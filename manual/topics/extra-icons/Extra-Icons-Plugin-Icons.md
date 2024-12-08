@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # Plugin Icons
 
@@ -24,7 +24,7 @@ Example:
 
 ![](../../images/extra-icons/plugin-icons-alternatives.png){ width="350" }
 
-In this case, Extra Icons selects the first enabled icon override for `swagger-config.yaml` files.  
+In this case, Extra Icons selects the first enabled icon override for `swagger-config.yaml` files.
 Otherwise:
 
 - if you want to use the second icon, disable the first one

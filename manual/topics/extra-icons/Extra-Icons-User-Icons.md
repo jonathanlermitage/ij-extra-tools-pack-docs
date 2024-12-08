@@ -1,4 +1,4 @@
-<show-structure depth="3"/>
+<show-structure for="chapter,procedure,tab,def"/>
 
 # User Icons
 
@@ -49,13 +49,13 @@ In this situation, the Model dialog is a bit different, as it will ask for the I
 
 An icon is identified by its name (per example, `GrazieCloudProcessing.svg`) or its internal path (per example, `/icons/stroke/GrazieCloudProcessing.svg`).
 
-#### Find IDE Icon Names
+<procedure title="Find IDE Icon Names" id="find-ide-icon-names">
 
 You can find IDE icon names or paths by enabling the Internal Mode of your IDE:
 
-- Go to `Help > Edit Custom Properties...` then add `idea.is.internal=true`.
-- Restart your IDE.
-- You can now use the UI Inspector with this combination: `Ctrl` + `Alt` + clicking on an element in the IDE. This will open a dialog showing information about the element. Click `icon` to get the icon path.
+<step>Go to `Help > Edit Custom Properties...` then add `idea.is.internal=true`.</step>
+<step>Restart your IDE.</step>
+<step>You can now use the UI Inspector with this combination: `Ctrl` + `Alt` + clicking on an element in the IDE. This will open a dialog showing information about the element. Click `icon` to get the icon path.</step>
 
 In this example, I clicked on the VCS icon of the main toolbar.
 
@@ -64,9 +64,12 @@ In this example, I clicked on the VCS icon of the main toolbar.
 Here, the icon path is `/expui/general/vcs.svg`.
 If you override only `vcs.svg`, you will actually override all the icons with a path that ends with `vcs.svg`.
 
+</procedure>
+
 > IDE icons overrides work after having restarted the IDE.
 > The other icon overrides (File and Directory icons) are applied immediately.
 {style="warning"}
+
 
 ### Conditions
 
