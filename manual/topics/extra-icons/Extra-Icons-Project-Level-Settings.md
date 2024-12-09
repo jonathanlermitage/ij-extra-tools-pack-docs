@@ -1,6 +1,6 @@
 <show-structure for="chapter,procedure,tab,def"/>
 
-# Project Level Settings
+# Project Level Configuration
 
 ![](../../images/extra-icons/project-level-settings.png){ width="680" }
 
