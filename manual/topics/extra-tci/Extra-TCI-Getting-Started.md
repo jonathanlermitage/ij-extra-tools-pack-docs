@@ -11,14 +11,14 @@ Extra ToolWindow Colorful Icons replaces the icons most graphical elements like:
 
 Here is an example:
 
-![](../../images/extra-tci/getting-started.png)
+![](../../images/extra-tci/extra-tci-getting-started.png)
 
 > This works for both the [Classic UI](https://plugins.jetbrains.com/plugin/24468-classic-ui) and the New UI.
 {style="note"}
 
 As a reminder, the same screen **without** Extra ToolWindow Colorful Icons:
 
-![](../../images/extra-tci/getting-started-without-plugin.png)
+![](../../images/extra-tci/extra-tci-getting-started-without-plugin.png)
 
 ## Capabilities
 

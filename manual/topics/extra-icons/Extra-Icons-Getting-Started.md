@@ -13,7 +13,7 @@ It also overrides the file icons in the Editor tabs, in the Diff Viewer, etc.
 
 Here is an example:
 
-![](../../images/extra-icons/getting-started.png)
+![](../../images/extra-icons/extra-icons-getting-started.png)
 
 ## Capabilities
 

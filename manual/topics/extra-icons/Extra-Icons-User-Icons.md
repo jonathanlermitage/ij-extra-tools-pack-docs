@@ -2,7 +2,7 @@
 
 # User Icons
 
-![](../../images/extra-icons/user-icons-add-models.png){ width="640" }{ thumbnail="true" }
+![](../../images/extra-icons/extra-icons-user-icons-add-models.png){ width="640" }{ thumbnail="true" }
 
 The `User icons` tab displays the icons [provided by you](#provide-your-own-icons) and the icons from imported [Icon Packs](Extra-Icons-User-Icon-Packs.md).
 
@@ -12,7 +12,7 @@ You can register your own custom icon to override almost every icon in the IDE.
 
 Click the "+" symbol and a new dialog will help you.
 
-![](../../images/extra-icons/new-model.png){ width="680" }
+![](../../images/extra-icons/extra-icons-new-model.png){ width="680" }
 
 > In Extra Icons, a "Model" is the combination of an icon and the rules that define icon override associated with this icon.
 
@@ -45,7 +45,7 @@ This is an icon of the IDE, like an icon in a menu, a toolbar, a tool window, et
 
 In this situation, the Model dialog is a bit different, as it will ask for the IDE icon path (the `Icon's name` field), and there won't be a list of conditions:
 
-![](../../images/extra-icons/new-model-ide.png){ width="680" }
+![](../../images/extra-icons/extra-icons-new-model-ide.png){ width="680" }
 
 An icon is identified by its name (per example, `GrazieCloudProcessing.svg`) or its internal path (per example, `/icons/stroke/GrazieCloudProcessing.svg`).
 
@@ -59,7 +59,7 @@ You can find IDE icon names or paths by enabling the Internal Mode of your IDE:
 
 In this example, I clicked on the VCS icon of the main toolbar.
 
-![](../../images/extra-icons/ui-inspector.png){ width="700" }
+![](../../images/extra-icons/extra-icons-ui-inspector.png){ width="700" }
 
 Here, the icon path is `/expui/general/vcs.svg`.
 If you override only `vcs.svg`, you will actually override all the icons with a path that ends with `vcs.svg`.
@@ -80,7 +80,7 @@ When defining multiple conditions in the table, the icon override will apply if 
 Inside a condition (i.e., in the `Add Condition dialog`), you will define one or many rules.
 When defining multiple rules, the condition will apply if all the rules are verified.
 
-![](../../images/extra-icons/model-condition.png){ width="450" }
+![](../../images/extra-icons/extra-icons-model-condition.png){ width="450" }
 
 1. the file or folder path verifies the given regular expression.
 2. the file or folder has the given folder name as parent.

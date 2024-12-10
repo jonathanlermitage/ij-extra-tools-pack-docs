@@ -2,7 +2,7 @@
 
 # User Icon Packs
 
-![](../../images/extra-icons/icon-packs.png){ width="920" }
+![](../../images/extra-icons/extra-icons-icon-packs.png){ width="920" }
 
 An Icon Pack is a collection of User Icons. Basically, this is a JSON file that contains Base64-encoded PNG or SVG icons (or references to icons bundled in Extra Icons) and their corresponding file icons override definitions.
 An Icon Pack may also have a name.
