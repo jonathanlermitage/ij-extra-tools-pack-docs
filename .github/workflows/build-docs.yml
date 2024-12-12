@@ -11,7 +11,7 @@ permissions:
 
 env:
   INSTANCE: 'manual/m'
-  DOCKER_VERSION: '243.21565'
+  DOCKER_VERSION: '243.22562'
 
 jobs:
   build:
