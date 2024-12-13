@@ -2,6 +2,6 @@
 
 # Favorite Projects
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

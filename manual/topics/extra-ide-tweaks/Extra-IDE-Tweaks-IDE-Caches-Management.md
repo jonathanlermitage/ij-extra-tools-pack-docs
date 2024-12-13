@@ -2,6 +2,6 @@
 
 # IDE Caches Management
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

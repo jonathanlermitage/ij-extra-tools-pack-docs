@@ -2,6 +2,6 @@
 
 # Confirm Opening of Sensitive Files
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

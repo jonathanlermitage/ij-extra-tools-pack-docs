@@ -2,6 +2,6 @@
 
 # Always Excluded Folders (From Indexing)
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

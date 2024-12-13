@@ -2,6 +2,6 @@
 
 # Better Folder Icons
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

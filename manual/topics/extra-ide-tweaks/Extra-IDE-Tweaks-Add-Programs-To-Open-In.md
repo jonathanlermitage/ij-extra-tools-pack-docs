@@ -2,6 +2,6 @@
 
 # Add Programs To The "Open In" Action
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

@@ -2,6 +2,6 @@
 
 # Activate All Tool Windows
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

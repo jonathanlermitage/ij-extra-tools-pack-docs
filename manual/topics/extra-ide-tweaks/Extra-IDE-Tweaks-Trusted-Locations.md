@@ -2,6 +2,6 @@
 
 # Trusted Locations
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

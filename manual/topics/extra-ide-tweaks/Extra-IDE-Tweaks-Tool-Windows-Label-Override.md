@@ -2,6 +2,6 @@
 
 # Tool Windows Label Override
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

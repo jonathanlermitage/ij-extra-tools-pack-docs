@@ -2,6 +2,6 @@
 
 # Workaround for Wrong "Version Control" Label
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 

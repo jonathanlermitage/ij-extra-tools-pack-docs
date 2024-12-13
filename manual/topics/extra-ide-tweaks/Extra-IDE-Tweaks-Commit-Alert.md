@@ -2,6 +2,6 @@
 
 # Commit Alert
 
-> WORK IN PROGRESS
+> documentation is coming soon
 {style="warning"}
 
