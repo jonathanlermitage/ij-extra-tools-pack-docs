@@ -70,6 +70,15 @@ If you override only `vcs.svg`, you will actually override all the icons with a 
 > The other icon overrides (File and Directory icons) are applied immediately.
 {style="warning"}
 
+### Menu Action Icons
+
+> Planned for the first release of 2025
+{style="note"}
+
+This is an icon associated with an action in a menu. For example, you can add an icon to the `right-click > Git > Rebase...` action.
+You can also overwrite an action's icon if it already has one.
+
+For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
 
 ### Conditions
 
