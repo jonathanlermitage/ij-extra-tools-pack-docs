@@ -91,11 +91,11 @@ When defining multiple rules, the condition will apply if all the rules are veri
 
 ![](../../images/extra-icons/extra-icons-model-condition.png){ width="450" }
 
-1. the file or folder path verifies the given regular expression.
-2. the file or folder has the given folder name as parent.
-3. the file or folder name starts with or is equal to the given string. You can also indicate the file or folder path shouldn't contain a "." character.
-4. the filename ends with the given string. This rule can be made optional (enable `May end with` instead of `End with`).
-5. the project or the module has the given facets. You can find the active facets in the Project Structure menu of the IDE.
+1. The file or folder path verifies the given regular expression.
+2. The file or folder has the given folder name as parent.
+3. The file or folder name starts with or is equal to the given string. You can also indicate the file or folder path shouldn't contain a "." character.
+4. The filename ends with the given string. This rule can be made optional (enable `May end with` instead of `End with`).
+5. The project or the module has the given facets. You can find the active facets in the Project Structure menu of the IDE.
 
 > Most of the time, the conditions are verified against the file and folder full paths. Meanwhile, in certain circumstances, like with in-memory files, the conditions may be verified against the file or folder name only.
 {style="warning"}

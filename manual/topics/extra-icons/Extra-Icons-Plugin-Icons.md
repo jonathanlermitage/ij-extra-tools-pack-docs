@@ -10,11 +10,11 @@ This table has five columns. For each line, it shows:
 
 ![](../../images/extra-icons/extra-icons-plugin-icons-line.png){ width="640" }
 
-1. the icon to apply
-2. a checkbox that says if the icon override is enabled or not
-3. a description of the rule associated to the icon override. This usually says it overrides a file icon by its name or thanks to a regular expression
-4. optional tags. Some icons associated with the same technology (per example, Docker or Angular) may have the same tag. Tags are purely informational and can be used by [Quick actions](#quick-actions)
-5. if you see the <img src="extra-icons-reboot.svg" style="inline"/>icon in this column, that means you need to restart your IDE to apply changes. Otherwise, changes are applied once you validate the form
+1. The icon to apply.
+2. A checkbox that says if the icon override is enabled or not.
+3. A description of the rule associated to the icon override. This usually says it overrides a file icon by its name or thanks to a regular expression.
+4. Optional tags. Some icons associated with the same technology (per example, Docker or Angular) may have the same tag. Tags are purely informational and can be used by [Quick actions](#quick-actions).
+5. If you see the <img src="extra-icons-reboot.svg" style="inline"/>icon in this column, that means you need to restart your IDE to apply changes. Otherwise, changes are applied once you validate the form.
 
 ## Alternative Icons
 
@@ -27,9 +27,9 @@ Example:
 In this case, Extra Icons selects the first enabled icon override for `swagger-config.yaml` files.
 Otherwise:
 
-- if you want to use the second icon, disable the first one
-- if there are three icon overrides, disable the two first icons to use the third
-- and so on
+- If you want to use the second icon, disable the first one.
+- If there are three icon overrides, disable the two first icons to use the third.
+- And so on.
 
 This way, you can choose among multiple available icons for the same icon override.
 

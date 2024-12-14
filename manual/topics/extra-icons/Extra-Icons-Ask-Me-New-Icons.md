@@ -6,7 +6,7 @@ I regularly rework and add new icons, but I would be pleased to know if there ar
 
 To proceed:
 
-- [open an issue](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues). [Example](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191).
-- or, email me.
+- [Open an issue](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues). [Example](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/191).
+- Or, email me.
 
 I will do my best to add the desired new icons in the next plugin release.

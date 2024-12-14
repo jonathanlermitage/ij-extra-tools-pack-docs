@@ -4,10 +4,10 @@
 
 Extra ToolWindow Colorful Icons replaces the icons most graphical elements like:
 
-- tool windows
-- toolbars
-- dialogs
-- menus
+- Tool windows.
+- Toolbars.
+- Dialogs.
+- Menus.
 
 Here is an example:
 
