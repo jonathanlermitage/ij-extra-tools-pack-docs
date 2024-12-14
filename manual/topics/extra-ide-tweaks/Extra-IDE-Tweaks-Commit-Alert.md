@@ -4,7 +4,6 @@
 
 This inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
 
-
 ## Configuration
 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-commit-alert-cfg.png){ width="750" }

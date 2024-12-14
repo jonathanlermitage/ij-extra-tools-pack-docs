@@ -28,4 +28,3 @@ Extra ToolWindow Colorful Icons is configurable and can be used to choose which 
 {style="note"}
 
 > Due to limitations of the JetBrains APIs, you may have to restart your IDE twice the first time you acquire a paid license. This scenario may happen one time only. Most users shouldn't face this issue. I apologize for the inconvenience.
-{style="warning"}

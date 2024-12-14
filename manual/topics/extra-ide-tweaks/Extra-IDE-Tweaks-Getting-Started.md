@@ -8,11 +8,11 @@ Extra IDE Tweaks provides the given features and workarounds:
 
 - [Commit Alert](Extra-IDE-Tweaks-Commit-Alert.md): this inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
 
-- [Activate all tool windows](Extra-IDE-Tweaks-Activate-All-Tool-Windows.md): this action activates all available tool windows in the current project. Enable it in settings, then see the "Window > Activate All Tool Windows" menu item. It's like clicking on the "..." button on the left-side toolbar, then clicking on each available tool window.
+- [Activate all tool windows](Extra-IDE-Tweaks-Activate-All-Tool-Windows.md): this action activates all the available tool windows in the current project. Enable it in settings, then see the "Window > Activate All Tool Windows" menu item. It is like clicking on the "..." button on the left-side toolbar, then clicking on each of the available tool windows.
 
-- [Better Folder Icons](Extra-IDE-Tweaks-Better-Folder-Icons.md) can make folder icons more visible (with no outline style) when using the New UI. You can also use it with the regular UI.
+- [Better Folder Icons](Extra-IDE-Tweaks-Better-Folder-Icons.md) can make folder icons more visible (with no outline style) when using the New UI. You can also use it with the [Classic UI](https://plugins.jetbrains.com/plugin/24468-classic-ui).
 
-- [Better Tab Names](Extra-IDE-Tweaks-Better-Tab-Names.md) can rename tab names to remove the parenthesis after the filenames if they're located in the root project or module. Per example, renames "build.gradle.kts (my-module)" to "build.gradle.kts". For now, it works with "build.gradle", "build.gradle.kts", "build.gradle.dcl", "settings.gradle", "settings.gradle.kts" "settings.gradle.dcl" and "src/main/resources/META-INF/plugin.xml" files only.
+- [Better Tab Names](Extra-IDE-Tweaks-Better-Tab-Names.md) can rename tab names to remove the parenthesis after the filenames if they're located in the root project or module. Per example, renames `build.gradle.kts (my-module)` to `build.gradle.kts`. For now, it works with `build.gradle`, `build.gradle.kts`, `build.gradle.dcl`, `settings.gradle`, `settings.gradle.kts`, `settings.gradle.dcl` and `src/main/resources/META-INF/plugin.xml` files only.
 
 - [Open a folder as a Project](Extra-IDE-Tweaks-Misc-Features.md) via the "Open In" menu.
 

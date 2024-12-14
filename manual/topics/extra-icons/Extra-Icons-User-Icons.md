@@ -68,7 +68,6 @@ If you override only `vcs.svg`, you will actually override all the icons with a 
 
 > IDE icons overrides work after having restarted the IDE.
 > The other icon overrides (File and Directory icons) are applied immediately.
-{style="warning"}
 
 ### Menu Action Icons
 
@@ -98,7 +97,6 @@ When defining multiple rules, the condition will apply if all the rules are veri
 5. The project or the module has the given facets. You can find the active facets in the Project Structure menu of the IDE.
 
 > Most of the time, the conditions are verified against the file and folder full paths. Meanwhile, in certain circumstances, like with in-memory files, the conditions may be verified against the file or folder name only.
-{style="warning"}
 
 ## Search for Existing JetBrains Icons
 
