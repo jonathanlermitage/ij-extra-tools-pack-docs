@@ -16,13 +16,13 @@ Extra IDE Tweaks provides the given features and workarounds:
 
 - [Open a folder as a Project](Extra-IDE-Tweaks-Misc-Features.md) via the "Open In" menu.
 
-- [Register any program and add it to the "Open In"](Extra-IDE-Tweaks-Add-Programs-To-Open-In.md) list when doing a right-click on a file, a folder, or a project. Your program will be added next to the "Open In" <i>Terminal</i> action. That means you can open files and folders with your favorite program (like ForkLift, Total Commander, Vim...). You can register up to 2 "Open In" actions. Go to Extra IDE Tweaks settings for details. You can also open files with Associated Application. This additional action is enabled for IDEs prior to 2024 only, as it is already implemented by 2024+ IDEs.
+- [Register any program and add it to the "Open In"](Extra-IDE-Tweaks-Add-Programs-To-Open-In.md) list when doing a right-click on a file, a folder, or a project. Your program will be added next to the "Open In > Terminal" action. That means you can open files and folders with your favorite program (like ForkLift, Total Commander, Vim...). You can register up to two "Open In" actions.
 
-- [Change most tool windows label](Extra-IDE-Tweaks-Tool-Windows-Label-Override.md). Per example, rename the "Pull Requests" tool window to "PR".
+- [Change most tool windows label](Extra-IDE-Tweaks-Tool-Windows-Label-Override.md). Per example, rename the "Bookmarks" tool window to "Fav".
 
 - [Confirm the opening of sensitive files](Extra-IDE-Tweaks-Confirm-Opening-of-Sensitive-Files.md). May be useful when streaming and/or accidentally opening a sensitive file in situations where you can leak critical information.
 
-- [Define default Excluded Folders](Extra-IDE-Tweaks-Always-Excluded-Folders-From-Indexing.md) (not per-project). There is now a global list of excluded folders. Go to Extra IDE Tweaks settings for details.
+- [Define default Excluded Folders](Extra-IDE-Tweaks-Always-Excluded-Folders-From-Indexing.md) (not per-project). There is now a global list of excluded folders.
 
 - [Open projects located in trusted locations](Extra-IDE-Tweaks-Trusted-Locations.md) directly via File > Trusted Locations, just after Recent Projects.
 

@@ -24,12 +24,10 @@ Don't hesitate to [ask](Extra-IDE-Tweaks-Ask-Me-New-Features.md) for additional 
 
 ## Usage
 
-Here is a preview of Better Tab Names when enabled, and when disabled.
-
-Better Tab Names enabled:
+A preview with Better Tab Names **enabled**:
 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-better-tab-names-on.png){ width="850" }
 
-Better Tab Names disabled:
+With Better Tab Names **disabled**:
 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-better-tab-names-off.png){ width="850" }
