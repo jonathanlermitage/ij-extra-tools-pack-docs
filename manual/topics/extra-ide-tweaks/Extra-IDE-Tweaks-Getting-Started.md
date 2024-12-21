@@ -24,9 +24,9 @@ Extra IDE Tweaks provides the given features and workarounds:
 
 - [Define default Excluded Folders](Extra-IDE-Tweaks-Always-Excluded-Folders-From-Indexing.md) (not per-project). There is now a global list of excluded folders.
 
-- [Open projects located in trusted locations](Extra-IDE-Tweaks-Trusted-Locations.md) directly via File > Trusted Locations, just after Recent Projects.
+- [Open projects located in trusted locations](Extra-IDE-Tweaks-Trusted-Locations.md) directly via File > Trusted Locations, just after "Recent Projects".
 
-- [Register your favorite projects](Extra-IDE-Tweaks-Favorite-Projects.md), organize them with optional groups, and gain fast access to your favorite projects via File > Favorite Projects, just after Recent Projects and Trusted Locations.
+- [Register your favorite projects](Extra-IDE-Tweaks-Favorite-Projects.md), organize them with optional groups, and gain fast access to your favorite projects via "File > Favorite Projects", just after "Recent Projects" and "Trusted Locations".
 
 - [Purge IDE's plugin download cache](Extra-IDE-Tweaks-IDE-Caches-Management.md), or its image cache only. This is a workaround for known IDE limitation 🐛 <a href="https://youtrack.jetbrains.com/issue/IJPL-6179/">IJPL-6179</a>.
 
