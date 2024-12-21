@@ -34,7 +34,7 @@ Extra IDE Tweaks provides the given features and workarounds:
 
 - [Schedule the IDE's GC](Extra-IDE-Tweaks-GC-Scheduling.md).
 
-- [Schedule the GC on local JVMs](Extra-IDE-Tweaks-GC-Scheduling.md). May be useful when having multiple Gradle or Kotlin Compiler daemons consuming too much memory. You can choose to run the GC on selected JVMs: all local JVMs, or by filtering by JVM instance name with your own regexes.
+- [Schedule the GC on local JVMs](Extra-IDE-Tweaks-GC-Scheduling.md). May be useful when having multiple Gradle or Kotlin Compiler daemons consuming too much memory. You can choose to run the GC on selected JVMs: all local JVMs, or by filtering by JVM instance name with your own regular expressions.
 
 - Add a [Properties action](Extra-IDE-Tweaks-Misc-Features.md) to the File and Folder context menu that shows information like size, number of files, etc.
 
