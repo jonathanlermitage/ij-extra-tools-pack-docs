@@ -2,7 +2,7 @@
 
 # Favorite Projects
 
-Register your favorite projects, organize them with optional groups, and gain fast access to your favorite projects via "File > Favorite Projects", just after "Recent Projects" and "Trusted Locations".
+Register your favorite projects, organize them with optional groups, and gain fast access to your favorite projects via <ui-path>File | Favorite Projects</ui-path>, just after "Recent Projects" and "Trusted Locations".
 
 ## Configuration
 
@@ -15,7 +15,7 @@ Register your favorite projects, organize them with optional groups, and gain fa
 
 ## Usage
 
-Once you registered some favorite projects, go to "File > Favorite Projects".
+Once you registered some favorite projects, go to <ui-path>File | Favorite Projects</ui-path>.
 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-favorite-projects.png){ width="700" }
 
@@ -27,6 +27,6 @@ Once you registered some favorite projects, go to "File > Favorite Projects".
 6. Open, reopen, or close the projects that belong to the given group.
 7. If a project contains an `.idea/icon.svg` icon file, it will be displayed in place of the default star icon.
 
-> My personal tip: I used to regularly open the same set of projects: an API project, some Kubernetes/Helm projects, microservice projects, GitLab pipeline projects, and some miscellaneous stuff. I implemented the "Open All Projects" and "Reopen All Projects" features because I always wanted to open them in the same order. This way, I knew where each project was located exactly in "Window > *the list of opened projects*" or in the taskbar.
+> My personal tip: I used to regularly open the same set of projects: an API project, some Kubernetes/Helm projects, microservice projects, GitLab pipeline projects, and some miscellaneous stuff. I implemented the "Open All Projects" and "Reopen All Projects" features because I always wanted to open them in the same order. This way, I knew where each project was located exactly in <ui-path>Window | *the list of opened projects*</ui-path> or in the taskbar.
 
 > Don't hesitate to create `.idea/icon.svg` icon files in your projects. They're displayed in the IDE's main toolbar when using the New UI. The [JetBrains ToolBox](https://www.jetbrains.com/toolbox-app/) uses it too. This is a convenient way to find your projects. 

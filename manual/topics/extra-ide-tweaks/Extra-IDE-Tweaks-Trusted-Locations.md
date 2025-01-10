@@ -2,7 +2,7 @@
 
 # Trusted Locations
 
-Open projects located in trusted locations directly via "File > Trusted Locations", just after "Recent Projects".
+Open projects located in trusted locations directly via <ui-path>File | Trusted Locations</ui-path>, just after "Recent Projects".
 
 In other words, you can get fast access to projects located in folders you registered as trusted locations:
 

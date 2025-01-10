@@ -53,9 +53,9 @@ An icon is identified by its name (per example, `GrazieCloudProcessing.svg`) or 
 
 You can find IDE icon names or paths by enabling the Internal Mode of your IDE:
 
-<step>Go to `Help > Edit Custom Properties...` then add `idea.is.internal=true`.</step>
+<step>Go to <ui-path>Help | Edit Custom Properties...</ui-path> then add <code>idea.is.internal=true</code>.</step>
 <step>Restart your IDE.</step>
-<step>You can now use the UI Inspector with this combination: `Ctrl` + `Alt` + clicking on an element in the IDE. This will open a dialog showing information about the element. Click `icon` to get the icon path.</step>
+<step>You can now use the UI Inspector with this combination: <code>Ctrl</code> + <code>Alt</code> + clicking on an element in the IDE. This will open a dialog showing information about the element. Click <code>icon</code> to get the icon path.</step>
 
 In this example, I clicked on the VCS icon of the main toolbar.
 
@@ -74,10 +74,31 @@ If you override only `vcs.svg`, you will actually override all the icons with a 
 > Planned for the first release of 2025
 {style="note"}
 
-This is an icon associated with an action in a menu. For example, you can add an icon to the `right-click > Git > Rebase...` action.
+This is an icon associated with an action in a menu, which is identified by an ID. For example, you can add an icon to the <ui-path>right-click | Git | Rebase...</ui-path> action.  
 You can also overwrite an action's icon if it already has one.
 
-For icons associated with intermediate menus, JetBrains does not allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
+In this situation, the Model dialog is a bit different, as it will ask for the Menu Action ID (the `Menu Action ID` field), and there won't be a list of conditions:
+
+![](../../images/extra-icons/extra-icons-new-model-menu-action.png){ width="680" }
+
+> For icons associated with intermediate menus, JetBrains doesn't allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
+{style="warning"}
+
+<procedure title="Find Menu Action IDs" id="find-menu-action-ids">
+
+You can find Menu Action IDs by enabling the Internal Mode of your IDE:
+
+<step>Go to <ui-path>Help | Edit Custom Properties...</ui-path> then add <code>idea.is.internal=true</code>.</step>
+<step>Restart your IDE.</step>
+<step>You can now use the UI Inspector with this combination: <code>Ctrl</code> + <code>Alt</code> + clicking on an element in the IDE (here, a Menu Action). This will open a dialog showing information about the element. Click <code>Action ID</code> to get the ID of the Menu Action.</step>
+
+In this example, I clicked on the <ui-path>right-click | Git | Show Diff</ui-path> Menu Action.
+
+![](../../images/extra-icons/extra-icons-ui-inspector-Compare-SameVersion.png){ width="700" }
+
+Here, the Menu Action ID is `Compare.SameVersion`.
+
+</procedure>
 
 ### Conditions
 
