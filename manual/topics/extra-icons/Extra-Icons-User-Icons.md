@@ -71,9 +71,6 @@ If you override only `vcs.svg`, you will actually override all the icons with a 
 
 ### Menu Action Icons
 
-> Planned for the first release of 2025
-{style="note"}
-
 This is an icon associated with an action in a menu, which is identified by an ID. For example, you can add an icon to the <ui-path>right-click | Git | Rebase...</ui-path> action.  
 You can also overwrite an action's icon if it already has one.
 
