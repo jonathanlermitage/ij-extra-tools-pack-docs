@@ -1,6 +1,6 @@
 <show-structure for="chapter,procedure,tab,def"/>
 
-# Purchase a License
+# Purchase a Subscription License
 
 ## Extra Tools Pack
 

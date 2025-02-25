@@ -2,6 +2,9 @@
 <!DOCTYPE terms SYSTEM "https://resources.jetbrains.com/writerside/1.0/glossary.dtd">
 <terms>
     <term name="ETA">
-        Estimated Time of Arrival.
+        Estimated Time of Arrival
+    </term>
+    <term name="EAP">
+        Early Access Programs
     </term>
 </terms>
