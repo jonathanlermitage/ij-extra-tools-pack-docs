@@ -10,6 +10,8 @@ If you go to <ui-path>Help | Register</ui-path>, you will see an entry for Extra
 
 > If you already own a license (active or expired) for Extra Icons, Extra ToolWindow Colorful Icons or Extra IDE Tweaks, and if you plan to acquire a license for Extra Tools Pack, please note that you can ask for a **10-month free license**.
 > Follow [these instructions](https://www.extratoolspack.com/pricing.html#migrate-to-extra-tools-pack). No credit card required.
+>
+> This offer is valid until May 1, 2025.
 {title="Special Offer" style="note"}
 
 ## Extra Icons
