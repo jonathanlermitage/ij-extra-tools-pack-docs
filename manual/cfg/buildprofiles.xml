@@ -24,11 +24,12 @@
     <footer>
         <copyright>2018-2025 Jonathan Lermitage. All rights reserved.</copyright>
 
+        <social type="github" href="https://github.com/jonathanlermitage"/>
+        <social type="bluesky" href="https://bsky.app/profile/jonathanlermitage.bsky.social"/>
         <social type="linkedin" href="https://www.linkedin.com/in/jonathan-lermitage/"/>
 
         <link href="mailto:jonathan.lermitage@gmail.com">Contact me</link>
         <link href="https://www.extratoolspack.com">ExtraToolsPack.com</link>
-        <link href="https://bsky.app/profile/jonathanlermitage.bsky.social">Bluesky</link>
         <link href="https://vshymanskyy.github.io/StandWithUkraine/">Help Ukraine</link>
     </footer>
 
