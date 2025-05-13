@@ -8,12 +8,6 @@ You can acquire a license for Extra Tools Pack on the [JetBrains marketplace](ht
 
 If you go to <ui-path>Help | Register</ui-path>, you will see an entry for Extra Tools Pack.
 
-> If you already own a license (active or expired) for Extra Icons, Extra ToolWindow Colorful Icons or Extra IDE Tweaks, and if you plan to acquire a license for Extra Tools Pack, please note that you can ask for a **10-month free license**.
-> Follow [these instructions](https://www.extratoolspack.com/pricing.html#migrate-to-extra-tools-pack). No credit card required.
->
-> This offer is valid until May 1, 2025.
-{title="Special Offer" style="note"}
-
 ## Extra Icons
 
 You can acquire an individual license for Extra Icons on the [JetBrains marketplace](https://plugins.jetbrains.com/plugin/11058-extra-icons/pricing#personal).
