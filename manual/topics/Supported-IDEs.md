@@ -16,14 +16,10 @@ Most JetBrains IDEs are supported:
 - RubyMine
 - RustRover
 - WebStorm
-- Writerside
 
 {columns="2"}
 
-These IDEs are currently supported for versions from 2023.3.1 to their latest stable version.
-Basically, I'm trying to support at least the two last major IDE versions (reminder: IDE versions look like `Year.Major.Minor`).
-
-Android Studio is also officially supported from Koala | 2024.1.1, and it should also work with Jellyfish | 2023.3.1 (not tested).
+These IDEs are currently supported for versions from 2024.3 to their latest stable version.  
 
 > Older versions of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks are compatible with IDEs from 2020.3, but they're no longer supported.
 

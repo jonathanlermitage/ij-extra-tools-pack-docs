@@ -103,13 +103,13 @@ When defining a model for a [File](#file-icons) or a [Directory](#directory-icon
 
 When defining multiple conditions in the table, the icon override will apply if at least one condition is matched.
 
-Inside a condition (i.e., in the `Add Condition dialog`), you will define one or many rules.
+Inside a condition (i.e., in the `Add Condition` dialog), you will define one or many rules.
 When defining multiple rules, the condition will apply if all the rules are verified.
 
 ![](../../images/extra-icons/extra-icons-model-condition.png){ width="450" }
 
-1. The file or folder path verifies the given regular expression.
-2. The file or folder has the given folder name as parent.
+1. The file or folder path verifies the given regular expression. You can also indicate if the regular expression should match the entire file path, or if it can simply match a part of the file path.
+2. The file or folder has the given folder name as its parent.
 3. The file or folder name starts with or is equal to the given string. You can also indicate the file or folder path shouldn't contain a "." character.
 4. The filename ends with the given string. This rule can be made optional (enable `May end with` instead of `End with`).
 5. The project or the module has the given facets. You can find the active facets in the Project Structure menu of the IDE.
