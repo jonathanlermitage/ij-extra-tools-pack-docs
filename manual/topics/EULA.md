@@ -6,20 +6,19 @@ End-user license agreement for:
 
 <tabs>
     <tab id="Extra-Tools-Pack" title="Extra Tools Pack">
-        <pre>EULA "Developer" means the author of Extra Tools Pack.</pre>
+        EULA "Developer" means the author of Extra Tools Pack.
     </tab>
     <tab id="Extra-Icons" title="Extra Icons">
-        <pre>EULA "Developer" means the author of Extra Icons.</pre>
+        EULA "Developer" means the author of Extra Icons.
     </tab>
     <tab id="Extra-ToolWindow-Colorful-Icons" title="Extra ToolWindow Colorful Icons">
-        <pre>EULA "Developer" means the author of Extra ToolWindow Colorful Icons.</pre>
+        EULA "Developer" means the author of Extra ToolWindow Colorful Icons.
     </tab>
     <tab id="Extra-IDE-Tweaks" title="Extra IDE Tweaks">
-        <pre>EULA "Developer" means the author of Extra IDE Tweaks.</pre>
+        EULA "Developer" means the author of Extra IDE Tweaks.
     </tab>
 </tabs>
 
-<pre>
 "JetBrains" means JetBrains s.r.o. with its registered office at Na Hřebenech II 1718/10, Prague, 14000, Czech Republic, registered with the Commercial Register kept by the Municipal Court of Prague, Section C, file 86211, ID.Nr.: 265 02 275.
 
 "JetBrains Affiliate" means the subsidiary and/or any associated companies of JetBrains.
@@ -51,4 +50,3 @@ ALL PLUGINS ARE PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS W
 IN NO EVENT WILL DEVELOPER BE LIABLE FOR ANY DIRECT OR INDIRECT COSTS, LOSSES, OR DAMAGES ASSOCIATED WITH THE USE OF DEVELOPER’S PLUGINS.
 
 DEVELOPER SHALL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, AND IN NO EVENT WILL DEVELOPER’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OF PLUGIN EXCEED THE FEES WHICH YOU PAID FOR PLUGINS VIA JETBRAINS PLUGIN MARKETPLACE SERVICE IN THE THREE-MONTH PERIOD PRECEDING THE CLAIM . THIS LIMITATION WILL APPLY EVEN IF DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF THE LIABILITY EXCEEDING THE AMOUNT AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. JETBRAINS’ LIABILITY IS EXCLUDED IN ITS ENTIRETY AS JETBRAINS IS NOT A PARTY TO THE CONTRACTUAL RELATIONSHIP BETWEEN DEVELOPER AND CUSTOMER.
-</pre>
