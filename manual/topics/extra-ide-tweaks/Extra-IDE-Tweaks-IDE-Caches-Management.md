@@ -15,5 +15,5 @@ No configuration is needed.
 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-ide-caches-management-cfg.png){ width="750" }
 
-1. Clear the IDE's plugin download cache.
-2. If you're curious, this opens the IDE's plugin download cache directory in your file manager.
+1. Clear the IDE's plugins browser download cache.
+2. If you're curious, this opens the IDE's plugins browser download cache directory in your file manager.
