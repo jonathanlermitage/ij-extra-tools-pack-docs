@@ -4,7 +4,7 @@
 
 ## Extra Tools Pack
 
-You can acquire a license for Extra Tools Pack on the [JetBrains marketplace](https://plugins.jetbrains.com/plugin/24559-extra-tools-pack/pricing#personal). This license offers a **47.5% discount** compared to the purchase of Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks. See the [plugins pricing](https://www.extratoolspack.com/pricing.html). <!-- 35.7% -->
+You can acquire a license for Extra Tools Pack on the [JetBrains marketplace](https://plugins.jetbrains.com/plugin/24559-extra-tools-pack/pricing#personal). This license offers a substantial compared to the purchase of Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks. See the [plugins pricing](https://www.extratoolspack.com/pricing.html).
 
 If you go to <ui-path>Help | Register</ui-path>, you will see an entry for Extra Tools Pack.
 
