@@ -3,10 +3,8 @@
 # Supported IDEs
 
 Most JetBrains IDEs are supported:
-- Aqua
 - CLion
 - DataGrip
-- DataSpell
 - GoLand
 - IntelliJ IDEA (Ultimate and Community)
 - MPS
