@@ -19,7 +19,7 @@ Most JetBrains IDEs are supported:
 
 These IDEs are currently supported for versions from 2024.3 to their latest stable version.  
 
-Android Studio is also supported.
+Android Studio is also supported from version Meerkat | 2024.3.1.
 
 > Older versions of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks are compatible with IDEs from 2020.3, but they're no longer supported.
 
