@@ -19,6 +19,8 @@ Most JetBrains IDEs are supported:
 
 These IDEs are currently supported for versions from 2024.3 to their latest stable version.  
 
+Android Studio is also supported.
+
 > Older versions of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks are compatible with IDEs from 2020.3, but they're no longer supported.
 
 > <tooltip term="EAP">EAP</tooltip> IDE snapshots are also supported. Please understand that EAP IDEs are subject to breaking changes by nature, which may break plugins as well. I usually do my best to support the latest EAP snapshots with minimal delay. In practice, it should work most of the time.
