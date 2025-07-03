@@ -12,8 +12,8 @@ Lifetime licenses of Extra ToolWindow Colorful Icons can be acquired via this se
 
 ## Extra IDE Tweaks
 
-I'm working on this 😉
+Lifetime licenses of Extra IDE Tweaks can be acquired via this separate plugin: [Extra IDE Tweaks **Lifetime**](https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime/pricing#personal). It is like Extra IDE Tweaks, with a lifetime license.
 
 ## Extra Icons and Extra Tools Pack
 
-There are no lifetime licenses for Extra Icons and Extra Tools Pack at the moment. Lifetime licenses for Extra ToolWindow Colorful Icons are very new (they've been introduced on Jan 25, 2025), and I'm still observing users' reactions and their impact on sales. I may enable lifetime licenses for more plugins later, but there is no <tooltip term="ETA">ETA</tooltip>.
+There are no lifetime licenses for Extra Icons and Extra Tools Pack at the moment. Lifetime licenses are very new (they've been introduced on Jan 25, 2025), and I'm still observing users' reactions and their impact on sales. I may enable lifetime licenses for more plugins later, but there is no <tooltip term="ETA">ETA</tooltip>.
