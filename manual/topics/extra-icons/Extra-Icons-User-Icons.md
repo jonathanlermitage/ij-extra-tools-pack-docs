@@ -31,13 +31,13 @@ Click the "+" symbol and a new dialog will help you.
 
 ### File Icons
 
-This is a file, identified by its name (per example, `foo.py`) or, generally, its full path (per example, `/home/me/prj/foo.py`).
-The "\" characters are replaced by "/" even on Windows. Names and paths are lowercased.
+This is a file, identified by its name (per example, `foo.py`) or, generally, its absolute path (per example, `/home/me/prj/foo.py`).
+The "\" characters are replaced by "/" even on Windows.
 
 ### Directory Icons
 
-This is a directory, identified by its name (per example, `dir`) or, generally, its full path (per example, `/home/me/prj/dir`).
-The "\" characters are replaced by "/" even on Windows. Names and paths are lowercased.
+This is a directory, identified by its name (per example, `dir`) or, generally, its absolute path (per example, `/home/me/prj/dir`).
+The "\" characters are replaced by "/" even on Windows.
 
 ### IDE Icons
 
@@ -78,7 +78,7 @@ In this situation, the Model dialog is a bit different, as it will ask for the M
 
 ![](../../images/extra-icons/extra-icons-new-model-menu-action.png){ width="680" }
 
-> For icons associated with intermediate menus, JetBrains doesn't allow that. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
+> The icons associated with intermediate menus cannot be changed. JetBrains does not allow this. If you're interested in this missing feature, please upvote [IDEA-364676](https://youtrack.jetbrains.com/issue/IDEA-364676).
 {style="warning"}
 
 <procedure title="Find Menu Action IDs" id="find-menu-action-ids">
@@ -113,8 +113,9 @@ When defining multiple rules, the condition will apply if all the rules are veri
 3. The file or folder name starts with or is equal to the given string. You can also indicate the file or folder path shouldn't contain a "." character.
 4. The filename ends with the given string. This rule can be made optional (enable `May end with` instead of `End with`).
 5. The project or the module has the given facets. You can find the active facets in the Project Structure menu of the IDE.
+6. Choose to check file paths against the original paths or lowercase paths. This option has been introduced with Extra Icons 2025.1.15. Before this version, file paths were always lowercased.
 
-> Most of the time, the conditions are verified against the file and folder full paths. Meanwhile, in certain circumstances, like with in-memory files, the conditions may be verified against the file or folder name only.
+> Most of the time, the conditions are verified against the file and folder absolute paths. Meanwhile, in certain circumstances, like with in-memory files or entries in the VCS view, the conditions may be verified against the file or folder name only.
 
 ## Search for Existing JetBrains Icons
 

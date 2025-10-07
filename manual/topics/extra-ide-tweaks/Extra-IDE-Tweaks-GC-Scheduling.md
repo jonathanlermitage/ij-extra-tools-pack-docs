@@ -10,7 +10,7 @@ You can also schedule the GC on any local JVMs. This may be useful when having m
 >
 > This should always work unless you explicitly disabled the support for running `System.gc()` on your IDE, for example, via the `DisableExplicitGC` JVM option.
 
-> When running the GC on local JVMs, [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions) is used to list all the running JVMs, their display name, and their PID. After that, the `jcmd` command is used to trigger the GC on selected JVMs: `jcmd 1234 GC.run` (where `1234` is the PID of the running JVM). We use the `jcmd` from the JBR (JetBrains Runtime) that runs your IDE. If no JBR is found, and if you're running Linux or macOS, we try to find a `jcmd` executable by running the `locate` command. You can also give the full path of a `jcmd` executable.
+> When running the GC on local JVMs, [JMX](https://en.wikipedia.org/wiki/Java_Management_Extensions) is used to list all the running JVMs, their display name, and their PID. After that, the `jcmd` command is used to trigger the GC on selected JVMs: `jcmd 1234 GC.run` (where `1234` is the PID of the running JVM). We use the `jcmd` from the JBR (JetBrains Runtime) that runs your IDE. If no JBR is found, and if you're running Linux or macOS, we try to find a `jcmd` executable by running the `locate` command. You can also give the absolute path of a `jcmd` executable.
 >
 > This should always work unless you enabled some specific security rules affecting JMX, `jcmd` or `locate`.
 
