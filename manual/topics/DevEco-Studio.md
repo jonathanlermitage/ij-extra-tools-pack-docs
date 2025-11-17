@@ -6,7 +6,7 @@
 
 ## DevEco Studio 5 support
 
-DevEco Studio 5 is supported by using special branches of Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks. **Instructions for installing the plugins and activating the licenses will be available very soon**.
+DevEco Studio 5 (at least version 5.1.1) is officially supported by Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks. **Instructions for installing the plugins and activating the licenses will be available very soon**.
 
 ### Plugin installation
 
