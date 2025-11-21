@@ -1,7 +1,7 @@
 Writerside:
 
 - [Reference documentation](https://www.jetbrains.com/help/writerside/getting-started.html)
-- [IDE and Docker image versions](https://plugins.jetbrains.com/plugin/20158-writerside/docs/8412.html)
+- [IDE and Docker image versions](https://plugins.jetbrains.com/plugin/20158-writerside/docs/2025.11.8530.html)
 
 Extra Tools Pack:
 

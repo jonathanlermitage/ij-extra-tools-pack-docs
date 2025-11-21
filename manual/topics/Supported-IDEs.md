@@ -15,11 +15,11 @@ Most JetBrains IDEs are supported:
 - RustRover
 - WebStorm
 
-{columns="2"}
+{columns="1"}
 
-These IDEs are currently supported for versions from 2024.3 to their latest stable version.  
+These IDEs are currently supported for versions from 2023.3 to their latest stable version.  
 
-Android Studio is also supported from version Meerkat | 2024.3.1.
+Android Studio is also supported from version Jellyfish | 2023.3.1.
 
 For Huawei DevEco Studio support, [click here](DevEco-Studio.md).
 
