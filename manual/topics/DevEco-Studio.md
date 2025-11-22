@@ -13,12 +13,12 @@ DevEco Studio 5 (**at least version 5.1.1**) is officially supported by Extra To
 You have to download the plugin file from the JetBrains marketplace:
 
 - Navigate to the plugin page:
-  - [Extra Tools Pack]()
-  - [Extra Icons]()
-  - [Extra ToolWindow Colorful Icons]()
-  - [Extra ToolWindow Colorful Icons Lifetime]()
-  - [Extra IDE Tweaks]()
-  - [Extra IDE Tweaks Lifetime]()
+  - [Extra Tools Pack](https://plugins.jetbrains.com/plugin/24559-extra-tools-pack/versions)
+  - [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons/versions)
+  - [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons/versions)
+  - [Extra ToolWindow Colorful Icons Lifetime](https://plugins.jetbrains.com/plugin/26404-extra-toolwindow-colorful-icons-lifetime/versions)
+  - [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks/versions)
+  - [Extra IDE Tweaks Lifetime](https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime/versions)
 - Go to the **Versions** tab.
 - Download a plugin version that is compatible with your DevEco studio version. Look at the **Compatibility Range** column, then use the corresponding **Download** link. For information: 
   - DevEco Studio 5.1.1 is based on 2023.3 IDEs.
