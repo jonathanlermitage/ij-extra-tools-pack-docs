@@ -4,7 +4,7 @@
 
 <tabs>
     <tab id="2024plus-ides" title="2024.2+ IDEs">
-        Select the <b>Chinese</b> locale in <ui-path>File | Appearance & Behavior | System Settings | Language and Region</ui-path>, then restart your IDE.
+        Select the <b>Chinese</b> locale in <ui-path>File | Settings... | Appearance & Behavior | System Settings | Language and Region</ui-path>, then restart your IDE.
     </tab>
     <tab id="older-ides" title="Older IDEs">
         Install and enable the official IDE <a href="https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----">Chinese Language Pack</a> plugin, then restart your IDE.
