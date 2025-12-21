@@ -5,6 +5,7 @@
 Most JetBrains IDEs are supported:
 - CLion
 - DataGrip
+- DataSpell
 - GoLand
 - IntelliJ IDEA (Ultimate and Community)
 - MPS
