@@ -18,9 +18,9 @@ Most JetBrains IDEs are supported:
 
 {columns="1"}
 
-These IDEs are currently supported for versions from 2023.3 to their latest stable version.  
+These IDEs are currently supported for versions from 2025.1.4.1 to their latest stable version.  
 
-Android Studio is also supported from version Jellyfish | 2023.3.1.
+Android Studio is also supported from version Narwhal 4 | Feature Drop 2025.1.4.
 
 For Huawei DevEco Studio support, [click here](DevEco-Studio.md).
 
