@@ -6,10 +6,10 @@
 
 ## DevEco Studio support
 
-DevEco Studio 5 (**at least version 5.1.1.850**) is officially supported by Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks.
+DevEco Studio 5 (**at least version 5.1.1.850**) and DevEco Studio 6 (**at least version 6.0.1.251**) are officially supported by Extra Tools Pack, Extra Icons, Extra ToolWindow Colorful Icons and Extra IDE Tweaks.
 
-DevEco Studio 6 will also be officially supported once it's available outside from China. For now, you should be able to use it, but I can promise nothing.  
-If you have access to DevEco Studio 6, I would be happy to read your feedback. At least, you would help me a lot by going to <ui-path>Help | About DevEco Studio | Copy and Close</ui-path>, paste to a text file, and send me this file (jonathan.lermitage AT gmail.com). This will tell me what's the base version of DevEco Studio 6 (i.e. is it based in IntelliJ 2023, 2024 or 2025).
+<!--DevEco Studio 7 will also be officially supported once it's available outside from China. For now, you should be able to use it, but I can promise nothing.  
+If you have access to DevEco Studio 6, I would be happy to read your feedback. At least, you would help me a lot by going to <ui-path>Help | About DevEco Studio | Copy and Close</ui-path>, paste to a text file, and send me this file (jonathan.lermitage AT gmail.com). This will tell me what's the base version of DevEco Studio (i.e. is it based in IntelliJ 2025 or 2026).-->
 
 ### Plugin installation
 
@@ -20,7 +20,7 @@ If you have access to DevEco Studio 6, I would be happy to read your feedback. A
   - [Extra ToolWindow Colorful Icons Lifetime (2025.1.16.1-c)](https://plugins.jetbrains.com/plugin/26404-extra-toolwindow-colorful-icons-lifetime/versions/stable/902093)
   - [Extra IDE Tweaks (2025.1.15.1-c)](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks/versions/stable/902088)
   - [Extra IDE Tweaks Lifetime (2025.1.15.1-c)](https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime/versions/stable/902081)
-- Clik on **Download**.
+- Click on **Download**.
 - Install the downloaded ZIP file manually in DevEco Studio: <ui-path>File | Settings | Plugins | Install Plugin from Disk...</ui-path>, and select the ZIP file.
 - Restart DevEco Studio.
 
