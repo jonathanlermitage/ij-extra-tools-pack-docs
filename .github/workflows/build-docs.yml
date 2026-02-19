@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 permissions:
+  contents: read
   id-token: write
   pages: write
 
 env:
   INSTANCE: 'manual/m'
-  DOCKER_VERSION: '2025.04.8412'
+  DOCKER_VERSION: '2026.02.8644'
 
 jobs:
   build:
@@ -49,7 +50,6 @@ jobs:
         uses: JetBrains/writerside-github-action@v4
         with:
           instance: ${{ env.INSTANCE }}
-          artifact: ${{ env.ARTIFACT }}
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Save artifact with build results
@@ -57,9 +57,9 @@ jobs:
         with:
           name: docs
           path: |
-            artifacts/${{ env.ARTIFACT }}
+            artifacts/${{ steps.define-ids.outputs.artifact }}
             artifacts/report.json
-            artifacts/${{ env.ALGOLIA_ARTIFACT }}
+            artifacts/${{ steps.define-ids.outputs.algolia_artifact }}
           retention-days: 7
   test:
     needs: build
