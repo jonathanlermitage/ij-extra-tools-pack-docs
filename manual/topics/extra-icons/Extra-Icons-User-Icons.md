@@ -117,6 +117,28 @@ When defining multiple rules, the condition will apply if all the rules are veri
 
 > Most of the time, the conditions are verified against the file and folder absolute paths. Meanwhile, in certain circumstances, like with in-memory files or entries in the VCS view, the conditions may be verified against the file or folder name only.
 
+## Helpers
+
+<procedure title="Register Icons from the Context Menu" id="register-icon-from-context">
+
+You can easily create a user icon by clicking on a file or a folder:
+
+<step>Select a file or a folder in the Project view.</step>
+<step>Do <ui-path>right-click | Create Icon for File...</ui-path> or <ui-path>right-click | Create Icon for Directory...</ui-path>. The action should be listed at the end:</step>
+
+![](../../images/extra-icons/register-user-icon-from-context-context-menu.png){ width="260" }
+
+<step>This will invoke the dialog that allows you to <a href="#provide-your-own-icons">Provide Your Own Icons</a>, prefilled with a condition that matches the selected file or folder name.</step>
+
+</procedure>
+
+You can also optionally invoke this action from the **Edit** and **Tools** main menu actions. This is configurable from Extra Icons settings: <ui-path>File | Settings | Appearance & Behavior | Extra Icons | Advanced</ui-path>:
+
+![](../../images/extra-icons/register-user-icon-from-context-settings.png){ width="720" }
+
+> In **Rider** IDE, the icon registration action is currently not available from <ui-path>right-click</ui-path>. Instead, it's only available from the **Edit** and **Tools** main menu actions. This is due to the fact that Rider doesn't provide the regular Project view, but Solution and File System views instead, which work differently, are not documented, and are closed-source.
+{style="warning" title="Rider support"}
+
 ## Search for Existing JetBrains Icons
 
 Visit [IntelliJ Platform Icons](https://intellij-icons.jetbrains.design/) and find most of the icons used by JetBrains IDEs. Click an icon, then download it as a zip file. This file will contain the icon as a PNG or SVG file, with an optional second file for dark themes (its name ends with `_dark.svg`).
