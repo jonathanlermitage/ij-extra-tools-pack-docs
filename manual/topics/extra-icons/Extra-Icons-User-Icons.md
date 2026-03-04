@@ -136,9 +136,6 @@ You can also optionally invoke this action from the **Edit** and **Tools** main 
 
 ![](../../images/extra-icons/register-user-icon-from-context-settings.png){ width="720" }
 
-> In **Rider** IDE, the icon registration action is currently not available from <ui-path>right-click</ui-path>. Instead, it's only available from the **Edit** and **Tools** main menu actions. This is due to the fact that Rider doesn't provide the regular Project view, but Solution and File System views instead, which work differently, are not documented, and are closed-source.
-{style="warning" title="Rider support"}
-
 ## Search for Existing JetBrains Icons
 
 Visit [IntelliJ Platform Icons](https://intellij-icons.jetbrains.design/) and find most of the icons used by JetBrains IDEs. Click an icon, then download it as a zip file. This file will contain the icon as a PNG or SVG file, with an optional second file for dark themes (its name ends with `_dark.svg`).
