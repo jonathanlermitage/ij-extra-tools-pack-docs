@@ -1,6 +1,6 @@
 <show-structure for="chapter,procedure,tab,def"/>
 
-# Updates Tool Window (experimental)
+# Updates (experimental)
 
 The Updates tool window finds updates for:
 - Gradle project, like libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online.
