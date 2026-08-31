@@ -6,6 +6,8 @@ Extra IDE Tweaks provides the given features and workarounds:
 
 - The [Open Editors](Extra-IDE-Tweaks-Open-Editors.md) tool window shows opened files in all editors belonging to the opened project, as in VSCode. It can also display a list of recently opened files, as in the Recent Files action.
 
+- The [Updates](Extra-IDE-Tweaks-Updates.md) tool window shows available updates for Gradle and Maven dependencies and plugins.
+
 - [Commit Alert](Extra-IDE-Tweaks-Commit-Alert.md): this inspection allows you to define keywords that will show a confirmation dialog before committing files containing any of those keywords. Per example, define the COMMIT_ALERT keyword, modify, delete or move one or multiple files containing it, then commit. A confirmation dialog will appear asking if you still want to commit.
 
 - [Activate all tool windows](Extra-IDE-Tweaks-Activate-All-Tool-Windows.md): this action activates all the available tool windows in the current project. Enable it in settings, then see the <ui-path>Window | Activate All Tool Windows</ui-path> menu item. It is like clicking on the "..." button on the left-side toolbar, then clicking on each of the available tool windows.

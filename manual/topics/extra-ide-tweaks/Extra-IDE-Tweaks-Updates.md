@@ -2,7 +2,7 @@
 
 # Updates Tool Window (experimental)
 
-The Updates tool window lists the dependencies of:
+The Updates tool window finds updates for:
 - Gradle project, like libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online.
 - Maven project: it lists the dependencies read from the `pom.xml` files - libraries, BOMs, Maven plugins, build extensions, the parent POM, and the Maven distribution pinned by the Maven wrapper - with their current version and the latest version available online.  
 
