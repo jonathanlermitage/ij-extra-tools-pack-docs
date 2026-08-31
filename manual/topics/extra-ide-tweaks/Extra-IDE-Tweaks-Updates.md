@@ -6,7 +6,8 @@ The Updates tool window finds updates for:
 - Gradle project, like libraries and Gradle plugins, whether they are declared in build scripts or in a version catalog - with their current version and the latest version available online.
 - Maven project: it lists the dependencies read from the `pom.xml` files - libraries, BOMs, Maven plugins, build extensions, the parent POM, and the Maven distribution pinned by the Maven wrapper - with their current version and the latest version available online.  
 
-You can check for updates on demand and on project opening.
+You can check for updates on demand and on project opening.  
+Libraries and plugins are detected by reading the associated files. There is no need to re-sync or reload your project.
 
 I may add support for other build systems (including non-Java) later.
 
