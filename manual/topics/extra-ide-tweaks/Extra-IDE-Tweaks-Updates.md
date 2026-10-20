@@ -19,12 +19,15 @@ I may add support for other build systems later. Feel free to share your ideas ;
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates-cfg.png){ width="750" }{ thumbnail="true" }
 
 1. Enable the Updates tool window feature.
-2. Choose to find updates from Maven Central.
-3. Choose to find updates from Google Maven (useful for Android projects).
-4. Choose to find updates from Gradle Plugin Portal.
-5. Choose to find artifacts relocations (for Gradle and Maven only)
-6. Some directories are ignored by default in order to speed up build scripts detection. If empty, a default list will be used.
-7. The number of parallel HTTP queries to do when checking for updates.
+2. Enable support for Gradle projects.
+3. Enable support for Maven projects.
+4. Enable support for Node.js projects.
+5. Choose to find updates from Maven Central.
+6. Choose to find updates from Google Maven (useful for Android projects).
+7. Choose to find updates from Gradle Plugin Portal.
+8. Choose to find artifacts relocations (for Gradle and Maven only)
+9. Some directories are ignored by default in order to speed up build scripts detection. If empty, a default list will be used.
+10. The number of parallel HTTP queries to do when checking for updates.
 
 The Updates tool window will also detect custom Maven repositories and use them where possible. For now, it does not support any authentication methods.
 
@@ -33,6 +36,12 @@ The Updates tool window will also detect custom Maven repositories and use them 
 ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates.png){ width="750" }{ thumbnail="true" }
 
 1. The Updates tool window shows updates for Gradle, Maven and Node.js projects. Each build tool has its own tab, and only the relevant tabs are displayed. If no compatible build tools are detected, the Updates tool window does not appear.
-2. A list of detected libraries and plugins, showing their current version, and the latest available version where applicable. You can double-click on a row to view its declaration.
-3. Libraries and plugins can also have relocation candidates. Clicking on a relocation will open a popup showing detailed information, and the new artifact coordinates in the form of copyable text.
-4. Using this toolbar, you can check for updates, filter libraries and plugins to display only those with updates or relocations, and access a declaration. The cog icon allows you to search for pre-release versions and check for updates whilst the project is loading. When you check for updates or relocations on opening the project, a notification appears with a summary of the available updates or relocations.
+2. A list of detected libraries and plugins, showing their current version, and the latest available version where applicable.  
+  You can double-click on a row to view its declaration.  
+  You can also do a right-click on a row to hide or unhide a specific update:
+  ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates-hide.png){ width="500" }
+  ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates-unhide.png){ width="500" }
+3. Libraries and plugins can also have relocation candidates. Clicking on a relocation will open a popup showing detailed information, and the new artifact coordinates in the form of copyable text:
+  ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates-relocation-tip.png){ width="600" }{ thumbnail="true" }
+4. Using this toolbar, you can check for updates, filter libraries and plugins to display only those with updates or relocations, and access a declaration. The cog icon allows you to search for pre-release versions, check for updates whilst the project is loading, show hidden updates, and restore hidden updates. When you check for updates or relocations on opening the project, a notification appears with a summary of the available updates or relocations.
+  ![](../../images/extra-ide-tweaks/extra-ide-tweaks-updates-cog.png){ width="340" }

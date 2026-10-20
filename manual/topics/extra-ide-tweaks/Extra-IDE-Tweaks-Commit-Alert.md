@@ -10,6 +10,8 @@ This inspection allows you to define keywords that will show a confirmation dial
 
 1. Enable the Commit Alert inspection.
 2. Define a list of keywords separated by commas.
+3. Chose if keywords are case-sensitive.
+4. Define a list of regex patterns matched against the file path relative to the project root
 
 ## Usage
 
