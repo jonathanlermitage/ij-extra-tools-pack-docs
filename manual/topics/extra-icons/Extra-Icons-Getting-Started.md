@@ -19,7 +19,7 @@ Here is an example:
 
 Extra Icons is fully configurable and can be used to override almost any icon in the IDE:
 
-- Select icons to override from 500+ custom icons.
+- Select icons to override from 1000+ custom icons.
   - Many icons have [variants](Extra-Icons-Plugin-Icons.md#alternative-icons), so if you aren't happy with an icon, you can pick another one.
 - Register your own icons to override almost any icon in the IDE, including toolbars, menus, etc.
 - Import and export Icon Packs.
