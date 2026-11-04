@@ -1,3 +1,4 @@
 # Cracked IDEs
 
-Cracked IDEs are **not** supported. Plugins will say you don't have a valid license. So, if you use a crack like *jetbra-netfilter*, don't waste my time complaining that your license "no longer works". And in case you were wondering, yeah, some adventurous folks have tried 🤣.
+Cracked IDEs are **not** supported. Also, remember most cracks install network sniffers (which steal your credentials and tokens) and various malware. Their authors do that for money.  
+Supporting my work is a better option.
