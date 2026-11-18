@@ -27,4 +27,3 @@ Extra Icons is fully configurable and can be used to override almost any icon in
 - The [Classic UI](https://plugins.jetbrains.com/plugin/24468-classic-ui) is supported, as well as the new default UI (previously called the New UI).
 
 > Extra Icons is fast and mature. It takes only a few milliseconds to display custom icons for hundreds of files, with a very low memory overhead.
-{style="note"}

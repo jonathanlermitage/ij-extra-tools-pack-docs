@@ -23,7 +23,5 @@ That means you will continue to access to their features like:
 * And all the other features.
 
 > This is similar to installing these plugins individually. The only differences are that with Extra Tools Pack, you will install a single plugin file, and you will acquire a single license at a [reduced price](Purchase-a-License.md#extra-tools-pack).
-{style="note"}
 
 > You won't lose your plugin configuration when migrating to Extra Tools Pack. It uses the same configuration files.
-{style="note"}

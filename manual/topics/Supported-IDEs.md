@@ -29,5 +29,4 @@ For Huawei DevEco Studio support, [click here](DevEco-Studio.md).
 > <tooltip term="EAP">EAP</tooltip> IDE snapshots are also supported. Please understand that EAP IDEs are subject to breaking changes by nature, which may break plugins as well. I usually do my best to support the latest EAP snapshots with minimal delay. In practice, it should work most of the time.
 
 > Please note that JetBrains Gateway and other remote IDEs based on the JetBrains Client (like Gitpod) are currently NOT supported.
-> I have plans to support remote IDEs, but JetBrains has to resolve some major issues first. Unfortunately, there is no <tooltip term="ETA">ETA</tooltip> from JetBrains.
 {style="warning"}
